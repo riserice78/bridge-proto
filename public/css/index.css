@@ -1,0 +1,101 @@
+.jumbotron{
+  background-color: #fff;
+  padding-top: 5px;
+}
+.kantoMap{
+  width: 95%;
+}
+.thumbnail .caption{
+  padding: 0;
+}
+.placeContainer{
+  background: #fff;
+  clear: both;
+}
+.placePhoto{
+
+}
+.placeContainer h3{
+  font-size: 1.2em;
+  margin-top: 5px;
+}
+.placeContainer .price{
+  font-size: 1em;
+  width: 100%;
+  display: block;
+  font-weight: bold;
+}
+.placeContainer .managePrice{
+  font-size: 0.7em;
+  margin-left: 6px;
+  float: right;
+  font-weight: normal;
+}
+.placeContainer p{
+  font-size: 0.8em;
+  line-height: 0.6em;
+}
+.badge{
+  font-weight: normal;
+}
+.roomSize{
+  background-color: #bada55;
+}
+.roomNumber{
+  background-color: #813C8F;
+}
+
+.buttonsContainer a{
+  padding: 7px 5%;
+  font-size: 0.5em;
+  min-width: 47%;
+}
+#kantoMap{
+  background-image: url(../img/kanto.svg);
+  background-repeat: no-repeat;
+}
+.conditionLabel{
+  font-weight: normal;
+  font-size: 0.9em;
+}
+.conditionRow{
+  margin-bottom: 15px;
+}
+.conditionInput{
+  font-size: 0.7em;
+}
+.valueInput{
+  width: 15%;
+  margin-right: 1%;
+  text-align: right;
+  font-size: 1.4em;
+  padding: 0;
+  font-weight: bold;
+  color: #AA3939;
+}
+.sliderContainer{
+  margin-left: 5%;
+}
+.rangeLimit{
+  font-size: 1.4em;
+}
+.conditionInput .btn-group{
+  margin: 5px;
+}
+.searchOptionsContainer{
+    margin-top: 10px;
+}
+.hidden{
+  display: none;
+}
+.tabContentsContainer{
+  border: 1px solid #eee;
+  margin-top: 0;
+  padding: 0 5px;
+}
+.nav-tabs{
+  border-bottom: none !important;
+}
+.nav-tabs a{
+  font-size: 0.8em;
+}
